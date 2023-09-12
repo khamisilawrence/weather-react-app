@@ -24,10 +24,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## Screenshots
 
 <b>Default state</b>
-![Screenshot of app default state](assets/images/screenshot1.png)
+![Screenshot of app default state](src/assets/images/screenshot1.png)
 
 <b>Results for Sydney, Australia</b>
-![Screenshot of result on hover revealing release date](assets/images/screenshot2.png)
+![Screenshot of result on hover revealing release date](src/assets/images/screenshot2.png)
 
 ## Credits
 
